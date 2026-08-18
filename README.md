@@ -10,3 +10,6 @@ https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction
 https://en.wikipedia.org/wiki/Neutralization_(chemistry)
 
 https://en.wikipedia.org/wiki/PH_indicator
+
+https://en.wikipedia.org/wiki/PH
+https://en.wikipedia.org/wiki/PH#pOH
