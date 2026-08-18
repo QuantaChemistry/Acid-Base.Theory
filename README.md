@@ -4,4 +4,8 @@ https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theo
 https://en.wikipedia.org/wiki/Hydronium
 https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction#Arrhenius_definition
 
-https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction#
+https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction
+
+https://en.wikipedia.org/wiki/Neutralization_(chemistry)
+
+https://en.wikipedia.org/wiki/PH_indicator
